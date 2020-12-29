@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">androidStudio_sqlite_30</string>
+    <string name="Hw30_title">SQ Lite</string>
+    <string name="Hw30_name">姓名</string>
+    <string name="Hw30_level">LEVEL</string>
+    <string name="Hw30_site">SITE</string>
+    <string name="Hw30_id">ID</string>
+    <string name="Hw30_add">建立檔案</string>
+    <string name="Hw30_all">瀏覽全部</string>
+    <string name="Hw30_upDate">上傳</string>
+    <string name="Hw30_dalete">刪除</string>
+</resources>
